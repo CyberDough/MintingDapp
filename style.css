@@ -7,7 +7,7 @@ body {
   background: rgb(111,177,212);
   background-image: linear-gradient(to right top, #6FB1D4, #6FB1D4); // #AACCE3,
   color: white;
-  height: 80%;
+  height: 100%;
 }
 .box {
   max-width: 300px;
