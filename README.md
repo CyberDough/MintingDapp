@@ -1,2 +1,2 @@
 # MintingDapp
-Mint your NFT here
+Mint your CPP NFT here.
